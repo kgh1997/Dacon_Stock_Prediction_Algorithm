@@ -15,5 +15,5 @@
 `황지영`<br>
 
 ## 파일설명
-`Derived_Variable`: 파생 변수를 만든 파일입니다.
-`BaseLine`: 모델링을 진행 파일입니다.
+`Derived_Variable`: 파생 변수를 만든 파일입니다.<br>
+`BaseLine`: 모델링을 진행한 파일입니다.
